@@ -1,0 +1,8 @@
+You have a new website form submission:
+1.	First Name
+Alex
+2.	Email Address
+karen.ignaci5656@yahoo.com
+3.	Phone Number
+2386690554
+4.	Message
